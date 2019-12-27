@@ -13,7 +13,7 @@ Who designed it, Tags, What you learn after do it, useful links
 * Level:
     We have three levels, and projects will be group by these levels:
 
-        Easy
+        Begginer
 
         Intermediate
 
