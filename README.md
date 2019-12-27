@@ -13,6 +13,8 @@ In this site we will put some useful project to exercise your linux exprience.
 [Professional projects](https://github.com/MParvin/PlayInLinux/raw/master/Projects/professional/lists.md) :star::star::star:
 
 
+________
+
 To add project, please open an issue and write your project according this guide line.
 
 All projects must have these **requirements**:
