@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## Welcome to Play in Linux :heart_eyes:
 
-You can use the [editor on GitHub](https://github.com/MParvin/PlayInLinux/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In this site we will put some useful project to exercise your linux exprience.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To add project, please open an issue and write your project according this guide line.
 
-### Markdown
+All projects must have these **requirements**:
+Levels , Project name, what to do
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These fields are **optional**:
+Who designed it, Tags, What you learn after do it, useful links
 
-```markdown
-Syntax highlighted code block
+* Level:
+    We have three levels, and projects will be group by these levels:
 
-# Header 1
-## Header 2
-### Header 3
+        Easy
 
-- Bulleted
-- List
+        Intermediate
 
-1. Numbered
-2. List
+        Professional
 
-**Bold** and _Italic_ and `Code` text
+* `Project Name`
 
-[Link](url) and ![Image](src)
-```
+       Please use good name and related to your project for it.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* `Who designed it` (Optional)
 
-### Jekyll Themes
+        If you want, we can show your name and link to your github account beside your project.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MParvin/PlayInLinux/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* `Tags`
 
-### Support or Contact
+        Tags helps users to know what services and taks type is in your project.
+        Example:
+        #nginx #debian #iptables
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* `What to do`
+
+        This is your project description, and you must define all tasks a user must to do in this project.
+
+* `What you learn after do it`
+
+        This can help users to do this project.
+
+* `Useful links`
+
+        If you have any useful links or manuals, write here to help users.
+
+* `Who did it`
+
+        If anyone do a project and wants to share this, we put his name and project link in this section:
