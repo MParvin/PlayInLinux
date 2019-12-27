@@ -14,6 +14,15 @@ In this site we will put some useful project to exercise your linux exprience.
 
 
 ________
+> To vote up a project, you must add :+1: to the projects issue.
+
+> For those projects created with pull requests, an issue will be add automatically.
+
+> Discussions about any projects will be in that project issue page.
+
+> In front of any project will be add issue page link.
+
+________
 
 To add your project there is two ways:
 
