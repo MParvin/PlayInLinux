@@ -15,7 +15,14 @@ In this site we will put some useful project to exercise your linux exprience.
 
 ________
 
-To add project, please open an issue and write your project according this guide line.
+To add your project there is two ways:
+
+* Open an issue and write your project
+* Fork it, create new branch, add your project file(**It must be .md file**) in [Projects folder](https://github.com/MParvin/PlayInLinux/tree/master/Projects), create pull request. 
+
+> This cheatsheet is very useful to create project file:
+        https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+        
 
 All projects must have these **requirements**:
 Levels , Project name, what to do
