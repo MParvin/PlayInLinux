@@ -2,6 +2,17 @@
 
 In this site we will put some useful project to exercise your linux exprience.
 
+
+#### See projects 
+
+
+        [Beginner projects](https://github.com/MParvin/PlayInLinux/raw/master/Projects/beginner/lists.md):star:
+        
+        [Intermediate projects](https://github.com/MParvin/PlayInLinux/raw/master/Projects/intermediate/lists.md):star::star:
+
+        [Professional projects](https://github.com/MParvin/PlayInLinux/raw/master/Projects/professional/lists.md):star::star::star:
+
+
 To add project, please open an issue and write your project according this guide line.
 
 All projects must have these **requirements**:
